@@ -16,15 +16,6 @@ The notebook uses publicly available data from [Yahoo Finance](https://finance.y
 ## Table of Contents
 1. [Getting Started](#getting-started)
 2. [Dependencies](#dependencies)
-3. [Project Structure](#project-structure)
-4. [Key Sections of the Notebook](#key-sections-of-the-notebook)
-    - [Data Collection](#data-collection)
-    - [Historical Method](#historical-method)
-    - [Parametric (Variance-Covariance) Method](#parametric-variance-covariance-method)
-    - [Monte Carlo Simulation](#monte-carlo-simulation)
-5. [Results Overview](#results-overview)
-6. [Usage](#usage)
-7. [License](#license)
 
 ---
 
